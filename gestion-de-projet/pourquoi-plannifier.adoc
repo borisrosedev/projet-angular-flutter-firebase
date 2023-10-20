@@ -1,0 +1,23 @@
+= L'intérêt de planifier un projet
+
+== Communication. 
+
+Cela vous permet d’aller dans le détail du programme demandé. 
+
+Avant de planifier, il faut en effet aller plus loin que le cahier des charges et approfondir les fonctionnalités. 
+
+
+=== Dialogue avec le client 
+
+Nous allons donc engager un dialogue avec le client en amont afin de valider avec lui que nous allons bien réaliser ce qu’il souhaite. 
+
+C'est un gain de temps.
+
+=== Sérénité
+
+Que vous travailliez seul ou en équipe, planifier un projet vous aide également à vous concentrer sur l’essentiel pendant la phase de production. 
+
+
+=== Qualité
+
+Enfin, vos développeurs produiront du code de meilleure qualité car leur coordination sera facilitée.

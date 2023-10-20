@@ -1,0 +1,114 @@
+= Les méthodes agiles 
+
+== Introduction
+
+Les méthodes agiles sont apparues dans les usines Toyota, dans les années 50, à travers le Lean Software (d’où vient le Kanban). 
+
+
+== Définition
+
+Scott Ambler, dans agilemodeling.com, propose la définition suivante :
+
+
+Une méthode agile est une approche itérative et incrémentale pour le développement de logiciel, réalisé de manière très collaborative par des équipes responsabilisées appliquant un cérémonial minimal qui produisent, dans un délai contraint, un logiciel de grande qualité répondant aux besoins changeants des utilisateurs.
+
+
+
+== Une approche itérative et incrémentale (et adaptative)
+
+
+=== Itération
+
+L’itération est le principe de répéter un processus plusieurs fois dans le but d’améliorer un résultat.
+
+Dans le monde du développement, nous utilisons cette approche pour améliorer une fonctionnalité. Une fonctionnalité a besoin d’être testée dans des conditions réelles pour s’adapter à ses utilisateurs et pour révéler des bugs éventuels.
+
+=== Incrémental
+
+
+Un processus incrémental permet de construire un produit petit à petit en le découpant en pièces détachées. Elles sont le plus souvent indépendantes les unes des autres mais ont pour caractéristiques d’améliorer le produit.
+
+Adaptée à l’informatique, cette approche incrémentale incite les responsables de produit à se concentrer sur les fonctionnalités essentielles et les développeurs à mettre en production régulièrement.
+
+== Adaptatif
+
+Suivre une approche incrémentale et itérative suppose une grande communication avec ses utilisateurs et une certaine humilité. 
+
+=== un product d'abord minimaniste
+
+Votre produit sera d’abord très minimaliste et s’améliorera en fonction des retours. Puis vous ajouterez de nouvelles fonctionnalités qui, à chaque étape, feront l’objet de modifications.
+
+=== Chaque incrément : 4 phases 
+
+Une méthode incrémentale et itérative mettra en œuvre les quatre phases vues (définition, conception, code et test) pour chaque incrément, donc pour chaque nouvelle fonctionnalité. 
+
+=== PO et les utilisateurs
+
+Le responsable du produit communiquera alors avec les utilisateurs pour connaître les modifications éventuelles à apporter lors d’une itération ultérieure.
+
+=== L'intérêt de cette communication
+
+Les intérêts sont multiples. 
+
+Outre le fait que vous communiquez régulièrement avec vos utilisateurs, vous avez un réel sentiment de satisfaction (voir en outre la théorie de l'engagement)
+
+Votre produit s’améliore au jour le jour, concrètement, et vous avez l’impression de passer moins de temps à écrire de la paperasse.
+
+
+== Des équipes responsabilisées
+
+Un des principes des méthodes agiles est le rôle actif de l’équipe produit. 
+
+=== Des membres complémentaires avec des motivations spécifiques
+
+Les membres sont choisis avec soin pour leur complémentarité et leur motivation. 
+
+=== Pragmatisme, simplicité et efficacité
+
+Les méthodologies agiles prônent le pragmatisme, la simplicité et l’efficacité. 
+
+=== Choisir la tâche 
+
+C’est pourquoi chaque membre de l’équipe choisit lui-même la tâche sur laquelle il souhaite travailler et doit être capable de communiquer sur son travail.
+
+== Un cérémonial minimal
+
+=== L'intérêt est mis sur le produit
+
+L’accent est mis sur le produit avant tout et non sur les réunions : un produit bancal qui a pourtant des spécifications parfaites n’en restera pas moins un produit inutilisable.
+
+
+=== Fonctionnalités de bonne qualité 
+
+Produire des fonctionnalités, oui, mais de bonne qualité. C’est pourquoi les méthodes agiles insistent sur la collaboration entre les différentes parties prenantes du projet. 
+
+Les réunions sont conservées mais tout est mis en œuvre pour qu’elles soient le plus efficaces possible. 
+
+=== Pair programming recommandé
+
+De même, la collaboration entre développeurs est grandement recommandée à travers de la programmation en binôme par exemple (“pair programming” en anglais).
+
+== Des utilisateurs aux besoins changeants
+
+Ceci est peut-être le point le plus révolutionnaire : le projet est complètement centré sur l’utilisateur.
+
+=== De produire des documents -> Produire des fonctionnalités
+
+L’objectif n’est plus de produire des documents qui aideront le projet à avancer mais bien de produire les fonctionnalités que l’utilisateur attend au plus vite et le plus qualitativement possible. 
+
+L’utilisateur évolue et notre service doit refléter ses usages.
+
+
+=== Définition de l'agilité selon Jim Highsmith 
+
+Jim Highsmith, un des signataires du Manifeste Agile (que nous verrons en détail plus tard), définit d’ailleurs l’agilité par rapport au changement :
+
+L‘agilité est la capacité à favoriser le changement et à y répondre en vue de s’adapter au mieux à un environnement turbulent.
+
+=== Attention
+
+Cela ne veut pas dire qu’une équipe agile dira oui à tout le monde et implémentera toutes les fonctionnalités. 
+
+
+Mais il lui sera plus facile d’intégrer des changements et de modifier l’ordre de priorité des tâches que dans une équipe qui suit une approche séquentielle.
+

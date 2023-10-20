@@ -1,0 +1,121 @@
+= Méthodologies séquentielles (irréalistes)
+
+== MOA et MOE
+
+Un projet informatique est développé conjointement par deux équipes : 
+[%step]
+
+* la maîtrise d’ouvrage 
+* la maîtrise d’oeuvre.
+
+
+== La MOA
+
+La maîtrise d’ouvrage (MOA) est le client ou le représentant des utilisateurs. 
+
+=== Exemple
+
+Si nous faisons un parallèle avec une maison, ce serait la personne qui passe commande. « Je veux une maison avec une piscine ».
+
+== La MOE
+
+La maîtrise d’œuvre (MOE) sera l’équipe chargée de réaliser la vision de la maîtrise d’ouvrage. 
+
+
+== AMOA
+
+Il arrive parfois que le client ne soit pas formé en gestion de projet et qu’il fasse appel à des prestataires dont c’est le métier. Nous parlons alors d’assistance à maîtrise d’ouvrage (AMOA).
+
+
+== Les phases du projet
+
+== Etape 1 : définition du projet
+
+La maîtrise d’ouvrage écrit les spécifications fonctionnelles (“requirements” en anglais). 
+
+Il s’agit d’un (long) document détaillant point par point tous les comportements de l’application. 
+
+=== Exemple
+
+Les spécifications fonctionnelles détailleront comment un utilisateur ajoute une tâche.
+
+====
+Ex: L'utilisateur arrive sur sa page de session, et il clique sur l'icône + . Un formulaire de création de tâche apparaît. 
+==== 
+
+
+=== Qu’est-ce qu’une fonctionnalité ?
+
+Il s’agit d’une petite partie d’un programme qui répond au besoin de l’utilisateur. 
+
+=== Exemple 
+
+Voici quelques exemples de fonctionnalités :
+
+- Paiement par Paypal
+- Compte utilisateur
+
+
+== Etape 2 : conception de l’architecture
+
+=== Après les spécifications fonctionnelles 
+
+Une fois que les spécifications fonctionnelles sont écrites, la maîtrise d’oeuvre écrit les spécifications techniques et conçoit l’architecture globale de l’application.
+
+
+=== Les spécifications techniques
+
+À la différence des spécifications fonctionnelles, qui se concentrent sur l’utilisation de l’application, les spécifications techniques ont pour objectif de définir le cadre technique du projet. Plus ou moins poussées, elles seront une base de travail solide pour les développeurs.
+
+
+=== Exemple 
+
+Les spécifications techniques auront une partie sur la recherche. “La récupération d'une tâche se fera via l’API Angular/Fire. La documentation de l’API est disponible à cette adresse...”
+
+=== Le chef de projet 
+
+En parallèle, le chef de projet technique conçoit l’architecture en s’aidant de diagrammes UML. 
+
+
+=== Validation par le client 
+
+Une validation est réalisée par le client et le chef de projet fonctionnel.
+
+== Etape 3 : écriture du code
+
+Les développeurs se basent sur les spécifications et sur le diagramme pour produire le code demandé.
+
+
+== Etape 4 : Recette
+
+La dernière phase a pour objectif de vérifier que l’application fonctionne comme il se doit. 
+
+=== Des tests manuels ou automatisés
+
+Des tests manuels peuvent être effectués mais, en règle générale, nous préférons utiliser les pouvoirs de l’informatique pour automatiser au maximum ces vérifications. 
+
+Nous utilisons notamment des tests unitaires.
+
+=== Qu'est-ce qu'un test unitaire ? 
+
+Chaque test unitaire a pour but de vérifier qu’une partie de l’application produit bien le résultat attendu quand un certain événement a lieu.
+
+Nous pouvons vérifier, par exemple, que le formulaire n’est pas envoyé si l’utilisateur n’a pas renseigné son prénom. Automatiser les tests fait gagner beaucoup de temps.
+
+
+=== Les tests de recette
+
+Puis le maître d’ouvrage réalise des tests de recette, c’est-à-dire qu’il va tester manuellement que l’application correspond à ce qui a été demandé.
+
+
+== En résumé
+
+Une méthodologie de projet séquentielle permet de réaliser ces phases les unes après les autres dans un ordre chronologique. 
+
+=== Un document à remettre
+
+L’objectif de chaque phase est avant tout un document à remettre, plus que des fonctionnalités. 
+
+=== Le logiciel 
+
+Le logiciel n’est testé qu’à la fin et le client commence à voir les résultats du travail de préparation parfois plusieurs mois après le démarrage du projet.

@@ -1,0 +1,53 @@
+= Un cahier des charges 
+
+== Définition
+
+Le cachier des charges est un document qui explique les besoins et les attentes du client. 
+
+=== Le client
+
+Ce dernier le rédige et l’envoie à la personne qui réalisera le projet : 
+[%step]
+* prestataire externe
+* agence ou développeur en interne
+
+=== Le prestataire
+
+Le plus souvent, le prestataire externe questionne le client sur le cahier des charges pour être sûr d’avoir compris les attentes de son client. 
+
+== Modification du cachier des charges
+
+Le cahier des charges peut être modifié en conséquence afin d’y indiquer :
+[]
+* le budget
+* les contraintes éventuelles 
+* les deadlines.
+
+== Le contrat
+
+Quand les deux parties sont d’accord sur le contenu, elles signent un contrat qui se base sur le cahier des charges. 
+
+=== Le cachier des charges est contractuel 
+
+C’est pourquoi un cahier des charges est dit contractuel. 
+
+=== Action en justice
+
+Le client peut se retourner contre le prestataire si ce dernier n’a pas réalisé ses engagements. 
+
+À l’inverse, le prestataire peut poursuivre le client s’il ne respecte pas les conditions de paiement.
+
+
+== Les grandes parties du cachier des charges
+
+[%step]
+* Contexte, Génèse du projet, objectifs, responsables. Procédures de validation, …
+* Besoins fonctionnels, techniques et organisationnels, ainsi que les contraintes.
+* Prestations et livrables attendus.
+* Contexte de la réponse. Planning de l’appel d’offre, règles de séelection
+
+
+== Spécifications fonctionnelles et techniques
+
+Le cachier des charges peut inclure des spécifications fonctionnelles et techniques
+
