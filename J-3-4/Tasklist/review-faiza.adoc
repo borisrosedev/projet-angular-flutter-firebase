@@ -1,0 +1,48 @@
+= Entretien avec Faiza
+Date : Lundi 6 novembre 10:00
+
+== Où en êtes-vous dans le projet ?
+
+Je suis dans la gestion du projet, mais j'essaie de suivre ce que font mes camarades côté dev, pour apprendre parce que je n'ai pas encore eu l'occasion d'utiliser Angular et Flutter (hors cours).
+On a finalisé le cahier des charges.
+
+
+== Que mettez-vous dans le cahier des charges ?
+
+L'objectif du projet,
+Les fonctionnalités principales de l'application
+Les contraintes techniques 
+Le livrable attendu
+Le budget 
+Le calendrier prévisionnel 
+
+== Quels sont les outils que vous avez utilisés ?
+
+Nous avons fait le CDC : word
+Trello 
+Discord : On a créé un groupe pour partager ce qu'on fait ...
+Calendrier : Diagramme de Gantt
+
+
+== Est-ce que vous utilisez Github Project ?
+
+Non
+
+== Est-ce que vous avez prévu d'utiliser une plateforme telle que Github Actions pour vous assurer que votre application valide des tests avant d'autoriser un push vers le dépôt distant ? 
+
+Nous n'avons pas encore réfléchi à la question
+
+
+== Est-ce que certains éléments de ce projet vous paraissent complexes ?
+
+On sait ce que c'est. Peut-être la partie développement.
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,46 @@
+= Entretien de Biraveen
+10:35
+
+== Que faîtes-vous personnellement dans l'équipe projet ? 
+Je suis chargé du développement de l'application mobile en Flutter : le CRUD
+L'interface de connexion a été réalisée reliée à la bdd firebase. 
+
+=== Quels sont les widgets que vous connaissez de Flutter ?
+(à revoir)
+
+=== Que pouvez dire concernant le modèle de base de données de Firebase ? 
+C'est une base de données NoSQL ( Not only). Structured Query Language.
+Il y a des collections, des documents. 
+
+
+=== Quels sont les services disponibles sur la plateforme Firebase?
+- Service d'authentification
+- Service de stockage
+- Service de base de données 
+- Service d'hébergement 
+
+== Qu'est-ce que peut contenir le cahier des charges ?
+Il peut contenir les fonctionnalités premières de l'application
+Dans quel but cette application sera utilisée
+Les technologies
+La répartition des tâches 
+Le délai 
+Le budget
+
+== Est-ce que certains éléments de ce projet vous paraissent complexes ?
+Le langage Dart (peu utilisé avant) - Flutter (les Widgets) car j'apprends encore
+
+== Pourquoi avoir fait un diagramme de séquence ? 
+Il va nous servir pour observer la communication entre les différents systèmes ( message synchrone et asynchrone)
+
+== Est-ce que vous connaissez des  plateformes d'automatisation ?
+gitlab actions , jenkins 
+
+== Quelle est la définition d'un parcours utilisateur ? 
+(à revoir)
+
+=== Quel est le parcours utilisateur sur votre application ?
+... Bonne explication : chaque tâche aura une date assignée à la tâche.
+
+
+

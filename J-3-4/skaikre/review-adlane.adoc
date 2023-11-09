@@ -1,0 +1,56 @@
+= Entretien avec Adlane
+12:05
+
+== Que pouvez-vous me dire relativement à votre avancée sur le projet ?
+Pour la partie conception (avant code) : cahier des charges, wireframes, persona, des questions (quoi qui pourquoi) on est avancé.
+On a divisé les tâches : qui s'occupait de la partie mobile, qui s'occupait de la partie web. 
+
+== Qu'est-ce qu'un cachier des charges peut contenir ?
+Cela contient de l'entiereté des fonctionnalités requises
+Des fonctionnalités demandés par le client 
+Cela peut contenir à quoi va ressembler l'affichage
+Les deadlines 
+Le prix
+
+== Concernant la conception quels sont les outils que vous avez utilisés ? 
+Trello (pour la gestion du projet)
+Discord pour la communication
+ChatGPT pour améliorer la mise en page, la présentation d'une introduction
+LucidChart
+Miro pour faire une carte mentale
+Figma pour faire les maquettes
+
+== Quelle est la différence entre un wireframe et une maquette ? 
+Wireframe il n'y a pas de couleur, il a seulement des placeholders (croix carré avec image dedans). Maquette (colorée), protype avec Figma et Adobe XD pour le parcours utilisateur.
+
+== Comment définiriez-vous un diagramme de cas d'utilisation ? 
+C'est toutes les choses en fonction du type d'utilisateur que l'utilisateur (admin et user) est capable de faire (des fonctions). L'utilisateur peut modifier seulement l'état d'un projet, l'administrateur peut faire tout le CRUD.
+
+== A quoi sert git ? 
+C'est une application de versionning de projet 
+On a workflow qui nous force à faire des merge request.
+
+== Qu'est-ce que vous pouvez me dire concernant gitlab actions ? 
+... 
+Pour faire des actions automatiques en fonction de ce qui se passe sur une branche.
+
+== Quels sont les services disponibles sur la plateforme Firebase ?
+Service authentification
+Service de base de données 
+Service de stockage
+Service hébergement
+
+== Est-ce que vous savez concernant l'accessibilité web ?
+Je n'ai jamais fait ça personnellement.
+WCAG,ARIA,html sémantique
+
+
+
+
+
+
+
+
+
+
+

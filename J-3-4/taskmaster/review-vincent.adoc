@@ -1,0 +1,62 @@
+= Entretien avec Vincent
+15:42
+
+== Que pouvez-vous me dire relativement à votre avancée sur le projet ?
+
+Nous sommes deux avec Samir, on a eu des alternances compliquées et on a eu du mal à se retrouver ces dernières semaines. 
+
+Cachier des charges, le persona ... 
+
+== Qu'est-ce peut trouver dans un cachier des charges ? 
+
+- Les fonctionalités et les attentes du client
+- Définission du produit par le client 
+- Le budget , la durée
+- Encadrer le projet en lui-même 
+- Surtout du point de vue du client
+- La stack technologique 
+- User stories
+
+== User stories ? 
+
+- Chaque écran ce que l'utilisateur veut faire.
+- On avait un user story par écran , on avait les besoins et les actions que l'on pouvait faire.
+
+== Quel est l'intérêt d'utiliser un diagramme de cas d'utilisation ?
+
+Cela permet de mettre visuellement toutes les utilisateurs peuvent faire et comment elles s'enchaînent.
+
+== Est-ce que certains éléments de ce projet vous paraissent complexes ?
+
+En entreprise je travaille sur des fonctionalités et non sur des projets.
+Je fais un peu d'Angular au travail (front) 
+Je fais du Java pour le backend
+L'idée de faire un projet entier à deux avec technologies et des concepts encore flous. 
+
+== A quoi peut servir un service avec Angular ? 
+
+Ils sont là pour les fonctions qui vont faire les appels au API et qui peuvent être utilisables dans différent composants. 
+
+== Qu'est-ce que l'injection de dépendances ?
+
+On lui précise d'aller des fonctions quand il en a besoin. Il va juste récupérer des modules spécifiques. 
+
+== Qu'est la commande pour créer un composant avec Angular ?
+
+n generate component 
+
+== Est-ce que c'est pertinent de faire un diagramme de séquence ?
+
+- Parcours utilisateur 
+
+
+
+
+
+
+
+
+
+
+
+

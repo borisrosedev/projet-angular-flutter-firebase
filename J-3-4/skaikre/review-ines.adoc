@@ -1,0 +1,61 @@
+= Entretien avec Ines
+11:00
+
+== Où en êtes-vous dans le projet ? 
+Je m'occupe de la partie maquette web et mobile
+Pareil pour les wireframes 
+J'ai déjà fait les deux maquettes 
+J'ai fait des correctifs pour celles du Web
+Je travaille sur les wireframes 
+Pour les autres, on a déjà fait le MCD pour les bases de données, etc. 
+On a un groupe discord où on s'échange des informations
+Un diagramme d'activité 
+Un use case
+
+== A quoi un schéma conceptuel de données ?
+C'est pour décrire l'état de la base de données 
+Ce qu'on va avoir comme attribut
+La relation entre les tables 
+Les types des attributs
+
+== Est-ce que certains éléments de ce projet vous paraissent complexes ?
+Je ne peux pas répondre pour l'instant. 
+
+== Quelle est la différence entre un wireframe et une maquette ?
+On commence par les wireframes , c'est comme un plan d'architecte : l'emplacement des boutons des images, textes, c'est vraiment pour améliorer l'expérience utilisateur sur le site et l'interface utilisateur 
+Les maquettes concernant beaucoup plus le design , sur les maquettes on va décrire le design : quel image, quel texte, le style la couleur. 
+
+== A quoi  sert github ? 
+Partager le code 
+Suivre le déroulement du projet 
+L'organiser le développement : plusieurs branches
+Les réunir : merge. 
+Versionning
+
+=== Est-ce que vous connaissez la plateforme github actions ?
+... 
+
+== Est-ce que vous avez protégé la  branche principale ?
+Je sais que c'est une option
+
+== Comment définiriez-vous un diagramme de cas d'utilisation ? 
+On aura d'abord des acteurs, on aura un cadre qui représente l'application
+On aura des bulles qui représenteront les actions qu'on peut avoir dans le système.
+On aura des relations entre les utilisateurs et ces fonctions (qui peut faire plusieurs fonctions).
+
+== Qu'est-ce que vous mettez dans le cahier des charges ?
+On commence par décrire le projet
+Le contexte
+L'objectif
+Les fonctionnalités, les besoins 
+Les contraintes (ex: financières, budget)
+Les délais 
+Les exigeances techniques (le code)
+
+== A quoi vous sert le persona ? 
+...
+
+== Est-ce que vous savez concernant l'accessibilité web ?
+...
+Contraste, police, html sémantique, attributs (alt)
+

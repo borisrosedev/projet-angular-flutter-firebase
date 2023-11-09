@@ -1,0 +1,66 @@
+= Entretien avec Alpha
+10:40
+
+== Que pouvez-vous me dire relativement à votre avancée sur le projet ?
+
+Il a fait un partage d'écran
+- Parcours utilisateur 
+- Les différents écrans
+- Il a fait une partie client et une partie administrateur
+
+- Une collègue fait les maquettes
+- Un autre s'occupe des wireframes 
+
+== Un splash screen ?
+
+- Ecran d'entrée dans l'application 
+
+== Est-ce que certains éléments de ce projet vous paraissent complexes ?
+
+Flutter : pour l'instant, je ne maîtrise pas.
+
+== Est-ce que vous avez déjà initialisé les projets 
+?
+Non on a préfère terminer la partie conception avant de le faire.
+
+== Concernant la conception quels sont les outils que vous avez utilisés ? 
+
+Nous avons utilisé trello 
+Miro pour le parcours utilisateur 
+
+== Qu'auriez-pu utiliser à la place de Miro ?
+
+Figma
+
+== Comment définiriez-vous un diagramme de cas d'utilisation ? 
+
+C'est un peu comme une représentation visuel du système de l'application avec les interactions que l'utilsateur aurait avec le système. 
+
+== Quel est la différence entre ce diagramme et les parcours utilisateurs ?
+
+Je ne rentre dans dans les détails fonctionnels de l'application dans le parcour utilisateur. 
+
+== Est-ce que vous allez utiliser une plateforme d'automatisation ?
+
+Celle de gitlab : CI / CD
+
+== Pour faire quoi ?
+
+- versioning 
+- deploying
+- tests applicatifs
+- vérification de la propreté du code
+
+
+
+
+
+
+
+
+
+
+
+
+
+

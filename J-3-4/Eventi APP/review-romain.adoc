@@ -1,0 +1,63 @@
+= Entretien de Romain
+13:00
+
+== Que faites-vous dans l'équipe projet ?
+Je suis responsable côté Angular du développement. 
+Younes et Anass travaillent également sur Angular. 
+On se donne des tâches entre nous. 
+J'ai pas mal travaillé sur le data model (base de données, conception).
+
+== Quelles sont les techniques que vous pouvez utiliser avec Angular pour partager des données entre les componsants ? 
+
+On marche sur un système de vues principales et les composants.
+Les vues réceptionnent les données qui viennent de Firebase 
+On passe par un système de inputs pour transférer les données de la vue aux composants.
+
+== Comment faites-vous pour passer des données à travers le système de routing ? 
+Côté constructeur j'injecte ActivatedRoute  pour réceptionner des paramètres. 
+On a fait en sorte de pouvoir passer l'id via le système de routes.
+
+== Qu'est-ce que vous pouvez me dire concerant les services avec Angular ? 
+Je pars du principe que le service est l'interface entre le frontend et le backend.
+On a toute les méthodes dedans getEvents, etc...
+
+== Comment est-ce que vous injectez le service dans le composant ?
+Au niveau du constructeur private firebaseService, importe le fichier et dans le ngOnInit() on l'utilise. 
+
+== Que que peut contenir le cahier des charges ?
+Le contexte du projet,
+Diagrammes (ex : diagramme des cas d'utilisation, MCD, MLD)
+L'analyse des besoins, ce que le client veut
+
+== A quoi sert git?
+- versionning 
+Si on apporte le changement au code, ce changement va être sauvegardée.
+Avoir un historique. 
+On peut pull du code existant
+On peut cloner 
+En équipe on veut créer des branches 
+Chaque développeur peut créer sa branche
+Quand on a fini de dév
+On peut voir le code changer par rapport à une autre branche.
+Un outil de comparaison.
+
+=== Que pouvez-vous me dire par rapport à la plateforme Github actions ?
+...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

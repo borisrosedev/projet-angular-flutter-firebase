@@ -1,0 +1,52 @@
+= Entretien avec Arnaud 
+17:00
+
+== Que pouvez-vous me dire relativement à votre avancée sur le projet ?
+On a fait les maquettes de l'application mobile avec Biraveen.
+
+== Quelle est la notion la plus avancée que vous connaissez avec Flutter ?
+Widget à revoir 
+
+== Qu'est-ce que vous pouvez mettre dans un cachier des charges ?
+Les nombres de page
+Chaque écran que l'on veut 
+Les technologiques utilisées 
+La date de rendu
+(à revoir)
+
+== Le trello vous sert à quoi ? 
+Assigner les tâches aux personnes de l'équipe
+Les tâches à faire, en cours
+Chaque tâche est assignée à une personne 
+
+== Concernant la conception quels sont les outils que vous avez utilisés ? 
+Figma pour faire les écrans de l'application mobile 
+Pour la base de données, les schéma conceptuel des données
+J'utilise que du SQL (MySQL)
+
+== Quel est l'intérêt de faire un diagramme de cas d'utilisation ?
+C'est pour représenter toutes les façons dont on utilisateur va pouvoir intergir avec l'application.
+
+== Est-ce que vous allez utiliser une plateforme d'automatisation ?
+ex : github actions 
+
+== Est-ce que certains éléments de ce projet vous paraissent complexes ?
+Fibase c'est nouveau. 
+
+== Quelle est la définition d'un parcours utilisateur ? 
+A partir d'un persona on créé une suite d'actions que la personne pourrait faire normalement. 
+
+== Est-ce que cela vous paraît pertinent d'utiliser un diagramme de séquence ?
+Je ne sais pas. 
+
+== Est-ce que vous avez activé des services de Firebase ?
+Oui j'ai activé le service d'authentification avec comme fournisseur (email, password)
+
+
+
+
+
+
+
+
+

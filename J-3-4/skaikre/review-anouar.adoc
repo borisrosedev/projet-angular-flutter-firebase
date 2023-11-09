@@ -1,0 +1,60 @@
+= Entretien avec Anouar
+15:20
+
+== Que pouvez-vous me dire relativement à votre avancée sur le projet ?
+Concernant l'avancée : conception et gestion de projet
+Cahier des charges 
+Diagramme de Gantt et le MCD 
+Les autres wireframe et maquetage
+Diagramme de cas d'utilisation 
+Persona 
+QQOCOQP
+On a initié le projet avec Firebase.
+
+== Est-ce que vous avez activé certains services de la plateforme ?
+Pas encore.
+
+== A quoi un schéma conceptuel de données ?
+Il est indispensable lorsqu'on travaille avec des objets 
+On a défini des cardinalités  / relations 
+On a défini des entités/tables (task)
+
+== Quelle est la différence entre la maquette et le wireframe 
+- charte graphique 
+- code couleur
+
+== Est-ce que vous savez concernant l'accessibilité ?
+- accessibilité à revoir, html sémantique 
+
+== A quoi vous sert le persona ? 
+- c'est l'outil qui va permettre de faire une fiche du client qu'on cible.
+
+== Qu'est-ce que vous mettez dans le cahier des charges ?
+- les maquettes,
+- les principales fonctionnalités 
+- les ressources nécessaires pour le développement de l'application
+- les technologies utilisées 
+- On peut parler d'une rubrique sécurité
+- Le personnel, les rôles
+- Les outils de conception ('user stories')
+- Le prix de la prestation
+- Les délais
+
+== Est-ce que vous allez utiliser une plateforme d'automatisation ?
+
+- On pourrait utiliser les githbub actions.
+- On pourrait utiliser cela lors de l'événement push sur la branche principale
+
+== Est-ce que vous avez protégé la  branche principale ?
+
+Non pas pour l'instant
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,31 @@
+= Entretien de Valentin
+12:00
+
+== Que pouvez-vous me dire relativement à votre avancée sur le projet ?
+
+Niveau front Angular c'est pratiquement terminé. On a ajouté beaucoup de fonctionalités. Des bibliothèques qui permettent l'ajout de widgets tels que slider, angular-material, ngx-bootstrap. Nous avons fait un peu d'animation.
+
+== Avez-vous utilisé des services ? 
+
+Un seul pour l'instant (Utilisateur)
+
+=== Qu'est-ce que input / output ?
+@Output émettre vers le parent 
+@Input émettre vers l'enfant.
+
+=== Quels sont les outils ? 
+- LucidChart : gratuit et permet de faire des diagrammes
+MCD : permet de voir les relations entre différentes tables 
+UseCase : voir les différents cas d'utilisation entre l'utilisateur et le système. 
+- Discord 
+- Git (versionning)
+
+
+
+
+
+
+
+
+
+

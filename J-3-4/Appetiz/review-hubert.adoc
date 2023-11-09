@@ -1,0 +1,68 @@
+= Entretien de Hubert
+11:35
+
+== Que pouvez-vous me dire relativement à votre avancée sur le projet ?
+Pour la répartition du projet 
+Valentin et Anis qui s'occupent de Angular 
+Quentin et Mustapha qui se sont occupés de faire le setup du projet
+- Mustapha participe à Angular 
+- Quentin pariticpe à Flutter 
+Archibald et Hubert(moi) on s'occupe de la partie Flutter. 
+
+On brainstorme sur ce qu'on peut faire. 
+
+
+== Est-ce que certains éléments de ce projet vous paraissent complexes ?
+
+La découverte d'un nouveau langage Flutter
+
+== Quelle est la notion la plus poussée que vous connaissez jusqu'à présent avec Flutter? 
+
+Aucune
+
+== Le trello vous sert à quoi ? 
+Mettre les tâches du projet 
+Mise en forme de type agile 
+Backlog avec toutes les tâches qu'il nous reste à faire 
+Différentes sections dans le trello qui representent les étapes. 
+Testeurs pour vérifier si il y a des bugs. 
+
+
+== Est-ce que vous allez utiliser une plateforme d'automatisation telle que Github Actions ?
+
+- On n'a pas encore réfléchi à ça. 
+
+== Concernant la conception quels sont les outils que vous avez utilisés ? 
+
+- Petit cahier des charges avec Word
+- Trello pour la répartition des tâches 
+- Communication avec Team + Les séances en présentiel 
+- Github 
+- Editeur de code : VS Code
+- MCD pas encore fait - MLD
+- StarUML
+
+== Quelle est la définition d'un parcours utilisateur ? 
+
+- Le parcours client: 
+Toutes les interactions qu'un prospect a avec une entreprise, par exemple pour une boutique commerciale : le fait du ramener le client par n'importe quel moyen (traffic naturel, traffic payant).
+
+- traffic naturel : 
+Pour une boutique physique ça serait que des clients viennent (ex : nouvel événement, bouche-à-oreille, propose un prix concurrentiel)
+
+- traffic payant :
+Engager des personnes pour faire de la publicité ( tout ce qui n'est pas organique)
+
+
+== A quoi sert un diagramme de cas d'utilisation ?
+
+Un diagramme de cas d'utilisation permet de modéliser le comportement d'un système et voir ses exigences. Cela décrit les fonctions générales du système et sa portée. 
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,53 @@
+= Entretien avec Michel 
+Date  : Lundi 6 novembre à 9h40
+
+== Que pouvez-vous me dire relativement à votre avancée sur le projet ?
+
+Cadrage de l'application et site que l'on voulait faire 
+Cahier des charges fait 
+Ce matin : MCD 
+Moi : Wireframe Maket / rôle de l'équipe
+Yohan avait pris le rôle de PO.
+
+
+== Est-ce que certains éléments de ce projet vous paraissent complexes ?
+
+Dans le cadrage du projet on est optimiste. Ce qui peut être une source de stress, c'est le temps. 
+Angular : beaucoup en font 
+Flutter : le potentiel problème.
+
+
+== Que pouvez-vous faire avec Flutter actuellement ?
+
+On n'a eu que trois cours (environs). 
+Le système D va nous permettre en plus de nos cours Flutter d'arriver au résultat.
+
+
+== Concernant la conception quels sont les outils que vous avez utilisés ? 
+
+Pour l'instant on a un document partagé classique 
+Nous avons un Trello 
+Nous utilisons Figman 
+
+
+== Le trello vous sert à quoi ? 
+
+Le trello nous permet de conserver tous les documents utiles (consigne, cahier des charges).
+Les tâces à distribuer
+Les révisions du code 
+Une partie tests.
+
+== Est-ce que vous allez utiliser une plateforme d'automatisation telle que Github Actions ?
+
+Je n'ai pas encore la réponse. 
+Anass s'en chargera sans doute il adore git et devops.
+
+
+
+
+
+
+
+
+
+

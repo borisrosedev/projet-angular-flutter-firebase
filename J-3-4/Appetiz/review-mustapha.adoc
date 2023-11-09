@@ -1,0 +1,48 @@
+= Entretien de Mustapha
+11:17
+
+== Que pouvez-vous me dire relativement à votre avancée sur le projet ?
+
+Avec Quentin on a mis en place le projet avec Trello, Git, CDC. 
+On aide pour Angular et Flutter.
+Je suis plus du côté d'Angular. 
+
+
+== Qu'est-ce que vous avez fait concernant Angular jusqu'à présent dans ce projet ?
+
+Valentin et Anis s'occupent de la création de l'application Angular 
+- une idée : ils mettent en place la to-do-list façon Trello. 
+Hubert et Archibald s'occupent de la création de l'application Flutter 
+
+== Concernant la conception quels sont les outils que vous avez utilisés ? 
+
+* Figma pour la maquette et le charte graphique 
+* Canevas pour le cachier des charges
+
+
+== Que peut contenir un cahier des charges ? 
+
+* Expliquer l'application : 
+- présentation de l'application
+- fonctionnalités techniques 
+- user stories
+
+== Est-ce que certains éléments de ce projet vous paraissent complexes ?
+
+Il faut bien mettre en place ce que l'on veut et ce que l'on ne veut pas 
+Bien repartir les tâches.
+Avoir une bonne communication entre chaque étudiant.
+
+== Le trello vous sert à quoi ? 
+- Permet de bien gérer les tâches et de la répartir 
+- Savoir à quelle étape se trouve une tâche
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,44 @@
+= Entretien avec
+10:10
+
+== Où en êtes-vous dans le projet ?
+
+On a terminé de définir les objectifs
+
+Par les objectifs j'entends :
+- définir le rôle de chaque membre de l'équipe : graphiste, product owner, dev frontend, dev backend , mobile, chef de projet 
+- créer toutes les user stories que nous mettons dans un trello, qui ont été priorisés
+
+On a réalisé un diagramme de Gantt pour planifier dans le temps la réalisation des user stories 
+
+On a fait un plan de gestion des risques ( définir les risques liés à ce projet, leur importance, les solutions de secours, les solutions de prévention de ces risques ) 
+
+On a réalisé les wireframes et maquettes.
+On a crée le repo de code sur github. 
+
+On vient de commencer la réalisation technique du projet selon tous les paramètres définis précédemment.
+
+== A quoi servent les user stories ? 
+
+Elles permettent de définir quelles seront les fonctionalités de l'application 
+
+
+== Quelles risques peuvent survenir dans ce projet  ?
+- un dévelopeur tombe malade 
+- une perte de données (backups)
+
+
+== Avez-vous déjà utilisé github actions ? 
+
+=== Différence wireframe et maquette ? 
+Le squelette de notre application, où est-ce qu'on met le contenu 
+La maquette rendu final du site : vrai contenu.
+
+
+
+
+
+
+
+
+

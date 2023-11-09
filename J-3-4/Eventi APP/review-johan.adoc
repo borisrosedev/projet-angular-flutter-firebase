@@ -1,0 +1,56 @@
+= Entretin de Johan 
+9:47
+
+== Que faites-vous dans l'équipe projet ?
+J'ai organisé le trello et certaines tâches, j'ai commencé à faire quelques tâches.
+J'ai pris la partie Flutter 
+J'ai commencé la partie Flutter en développement
+
+== Quels sont les widgets que vous connaissez de Flutter ?
+ListTail ( lister toutes les tâches )
+FloatingActionButton
+FloationActionButtonLocation 
+Text
+TextFormField
+CircularProgressIndicator
+MaterialApp
+StatefullWidget
+StatelessWidget
+
+=== Quelle est la différence entre StatefulWidget et StatelessWidget ?
+Des évolutions 
+
+=== Connaissez-vous ChangeNotifier(Provider)?
+Non
+
+== Qu'est-ce que peut contenir le cahier des charges ?
+Les fonctionnalités de l'application
+Pour qui, avec qui
+Les outils (Trello, Github, Flutter, Android Studio)
+Le prix de la prestation 
+La maintenabilité de l'application
+La sécurité
+
+=== Que pouvez-vous me dire par rapport à la plateforme Github actions ?
+Pas grand chose parce que je ne l'ai jamais utilisé.
+Anass est dessus j'essaierai de voir ce qu'il a fait. 
+
+=== Est-ce que vous avez protégé par la branche principale ?
+On ne développe pas sur la branche principale. 
+
+== Concernant la conception quels sont les outils que vous avez utilisés ? 
+On a fait du Trello (pour le projet, le partage des documents)
+Github (pour le code partagé)
+Canvas (pour la partie graphique)
+Android Studio (Flutter)
+VSCode (Angular)
+
+== Qu'est-ce vous pouvez me dire concernant le diagramme de cas d'utilisation (use case) ?
+On ne l'a pas encore fait.
+C'est un diagramme qui complète bien les user stories , permet en amont d'une création d'application de voir tout ce que l'application permet de faire, les contraintes et les limites.
+
+
+
+
+
+

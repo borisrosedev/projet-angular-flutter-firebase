@@ -1,0 +1,49 @@
+= Entretien avec Nicolas 
+12:23
+
+== Où en êtes-vous dans le projet ?
+Je suis la maquette 
+Je crée l'identité visuelle : la charte graphique 
+Il y a trois trello : 
+1) taskmanager - front angular - front flutter - user stories - lien du github - lien de la maquette 
+J'ai créé mes petites tâches concernant le front Angular. 
+
+== Est-ce que vous faites une distinction entre les wireframes et les maquettes ? 
+Le squelette de notre application, où est-ce qu'on met le contenu 
+La maquette rendu final du site : vrai contenu.
+
+== Que mettez-vous dans le cahier des charges ?
+Toutes les demandes du client
+Les contraintes (stakes) 
+Le délai
+Introduction sur le projet (en quoi il va consister)
+La présentation du groupe ( qui va travailler sur quoi)
+La plannification ( Diagramme de Gantt)
+Les risques 
+Les exigences fonctionnelles non-fonctionnelles 
+Consentement
+
+== Quels sont les outils que vous avez utilisés ?
+Figma pour la maquette 
+IDE VsCode 
+Trello pour le management de tâches 
+Gant-project : une application pour faire des Gantt
+StarUML : diagrammes. 
+Discord : pour la communication interne 
+Github : versionning , deploiement. 
+
+== Diagramme de cas d'utilisation ? 
+Interactions entre l'utilisateur et le système
+
+== Le parcours utilisateur / user journey et le parcours client ? 
+L'utilisateur se connecte, login créer son compte ou se connecter, il arrive sur la page d'accueil ....
+
+== Est-ce que vous allez faire un diagramme de séquence ? 
+Les interfactions avec le système au fil du temps. 
+
+
+
+
+
+
+

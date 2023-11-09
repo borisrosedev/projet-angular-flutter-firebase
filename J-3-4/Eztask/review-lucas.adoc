@@ -1,0 +1,52 @@
+= Entretien de Lucas
+11:40
+
+== Que faites-vous personnellement dans l'équipe projet ?
+Je fais plusieurs choses : ressources, côté ressources j'ai fait les personas (x2)
+J'ai fait le diagramme de Gantt 
+J'ai fait également l'évaluation des risques
+Pour la partie technique j'ai fait la partie Angular et je me suis occupé de la partie de la visualisation des tâches. On a un petit serveur côté jsonserver : affichage, création de la page, etc. 
+
+== Que pouvez-vous me dire concernant les shareds avec Angular ?
+De ce que je comprends, ce ne sont pas services à proprement parler, mais ça va être par exemple des données légères qu'on va utiliser dans plusieurs composants.
+
+== Que pouvez-vous me dire concernant les services avec Angular ?
+version abrégé : n g s le_nom_du_service
+On a un composant tash et task a besoin de communiquer avec le backend et on va créer un créer un service task et ce service va permettre de récupérer des informations du backend et de les transmettre au composant.
+Il faut les importer et ensuite il faut les définir dans le constructeur et dans le sens on va les mettre private ou public ... 
+
+=== Est-ce que vous avez utilisé les interfaces , à quoi cela aurait pu vous servir ?
+...
+
+== Qu'est-ce qu'on peut mettre dans un cahier des charges ?
+Les besoins du client 
+Les technologies requises 
+Les deadlines
+La sécurité
+
+== Qu'est-ce que vous pouvez me dire concernant le modèle de base de données de Firebase ?
+...
+Je n'avais jamais utilisé cet outil avant.
+Modèle de base de données est NoSQL
+
+== Quelles sont les limites du SQL ?
+...
+== Que veut dire la notion de normalisation et celle de dénormalisation ?
+...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

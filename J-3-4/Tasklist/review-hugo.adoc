@@ -1,0 +1,60 @@
+= Entretien avec Hugo
+17:20
+
+== Où est-ce que vous en êtes dans le projet ?
+
+On a établi un cachier des charges 
+On a divisé les rôles, chaque personne a un rôle attritré. 
+Par exemple : ScrumMaster 
+Je m'occupe de la réalisation du cachier des charges, j'ai fait un diagramme de perte et un gantt (avec Omma)
+On a fait aussi un person pour cibler un client type de notre application
+Faiza s'est occupée de faire un diagramme de séquence. Elle s'occupe aussi d'organiser le trello. 
+Elle m'a aidé aussi dans la réalisation du cachier des charges. 
+Arnaud Biraven et Alex qui s'occupent du développement de l'application.
+Arnaud s'occupe principalement de la partie flutter pour mobile. 
+Alex s'occupe de la partie Angular Web
+Biraveen qui aide dans la base de données (Firebase).
+On a fait des maquettes ( Omma Biraven et Arnaud )
+On n'a pas encore de fait de use case. 
+
+== Qu'est-ce qu'on peut mettre dans un cachier des charges ? 
+L'objectif du projet 
+Les fonctionnalités principales 
+Les livrables 
+Calendrier/ Gestion du temps 
+Budget 
+Contraintes techniques 
+Description de la chartre graphique
+Description de ma mission
+Exigences fonctionnelles
+
+== Pourquoi avez-vous décidé de faire un diagramme de perte ?
+Pour voir le chemin critique pour les tâches pour respecter le calendrier.
+
+== Pourquoi avoir fait un diagramme de séquence ? 
+C'est pour montrer au client les interactions possibles qu'il y a avec l'application 
+
+== Des choses vous paraissent-elles complexes ?
+
+La partie de réalisation du CDC
+
+== Quelle est la notion la plus avancée avec le framework Angular que vous connaissez ? 
+Injection de dépendance à revoir 
+
+== Quelle est la notion la plus avancée que vous connaissez avec Flutter ?
+A revoir.
+
+== Connaissez-vous github Actions ?
+
+
+
+
+
+
+
+
+
+
+
+
+

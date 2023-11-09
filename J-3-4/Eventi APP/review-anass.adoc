@@ -1,0 +1,83 @@
+= Entretien avec Anass
+14:45
+
+== Que pouvez-vous me dire relativement à votre avancée sur le projet ?
+
+Sur notre avancée, on a fait un persona.
+On a terminé les user stories 
+Le cahier des charges a été établie 
+La maquette de l'application est quasiment finie
+Firebase  : 
+- vous avez activé le service d'authenfication (email, mot de passe)
+- potentiellement google
+CI/CD via Github Actions
+- eslint (formater le code)
+Flutter (débutant)
+On s'est reparti les tâches pour plus tard
+
+== Qu'est-ce que vous pouvez me dire concernant le modèle de base de données ?
+3, 4 cinq tables 
+
+== Qu'est-ce que peut contenir le cahier des charges ?
+Une idée précise de ce que l'application va faire. 
+A qui l'application est destinée : B2B, B2C ou C2C
+Qui paie la facture. 
+Qui réalise l'application
+Le prix 
+Certaines fonctionalités de base.
+Les langages qui vont être utilisés. 
+Les insfrasctures:
+- hébergeurs
+- outils logiciels
+Les dates
+La maintenabilité ( négociée ) / contrat de maintenabilité
+La sécurité et/ou confidentialité
+
+=== Allez-vous faire un login ?
+Nous allons un faire un login basique : email mot de passe, (voire google)
+
+=== Que pouvez-vous me dire par rapport à la plateforme Github actions ?
+Permet de faire des CI/CD 
+On peut les orchestrer comme on le souhaite. 
+
+=== Qu'est-ce qu'on peut trouver dans un workflow ?
+La branche concernée par le workflow. 
+- événément-trigger
+- les jobs
+- exécuteur 
+- steps : 
+-- package qu'on va utiliser
+--- version : node 18.16
+--- run 
+
+=== Est-ce que vous avez protégé par la branche principale ?
+ Non 
+
+=== Allez-vous mettre en place une review post-request ? 
+
+Oui , minimum 1. Tout part de la branche développement.
+
+== Est-ce que certains éléments de ce projet vous paraissent complexes ?
+
+Flutter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+

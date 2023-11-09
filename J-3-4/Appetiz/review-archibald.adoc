@@ -1,0 +1,58 @@
+= Entretien avec Archibald
+16:00
+
+== Que pouvez-vous me dire relativement à votre avancée sur le projet ?
+Cela avance bien. On est un groupe de six personnes. Il y a eu une répartition des tâches. Chacun a avancé de son côté ce matin. Une bonne entente dans l'équipe. 
+
+== Qu'est-ce que vous avez mis en place jusqu'à présent?
+Le Trello 
+Je suis sur la partie Flutter avec mon camarade Hubert. 
+On regarde les documents avec mon collègue Hubert.
+On essaie de se répartir les choses. 
+On a créé le projet.
+Valentin et Anis ont avancé sur Angular. 
+Anis a déjà mis en place Firebase.
+
+
+== Que pouvez-faire de mieux actuellement avec Flutter ?
+Réponse : l'affichage. 
+
+== Le schéma conceptuel de données ? 
+Ce qui permet d'avoir une idée des tables qui existent, les relations qui existent, les clés primaires et étrangères. Cela permet de voir la base de données et ne pas créer des propblèmes plus tard. 
+Définir une base de données via un schéma où les tables sont liées par des relations.
+
+== Normalisation / Dénormalisation 
+Redondance. 
+Intégrité des données.
+
+== Avez-vous déjà travaillé avec du NoSQL 
+Réponse : jamais
+
+=== Le diagramme de cas d'utilisation ? 
+Les actions faisables par des utilisateurs.
+
+
+== Que peut contenir un cahier des charges ? 
+
+Le cahier des charges permet de définir le besoin du client 
+Une idée générale de l'application
+Une explication détaillé de ce qui pourrait être demandé 
+La charte graphique 
+On peut retrouver si un client demande des technologies
+La durée,
+Les contraintes de délai, 
+Les dates de présentation de suivi de projet.
+Le prix de la prestation.
+Les spécifications techniques 
+Les spécifications fonctionnelles.
+
+== Est-ce que vous allez utiliser une plateforme d'automatisation ?
+
+Si nous avons le temps.
+
+
+
+
+
+
+

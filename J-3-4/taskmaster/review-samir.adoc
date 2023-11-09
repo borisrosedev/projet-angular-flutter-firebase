@@ -1,0 +1,36 @@
+= Entretien de Samir
+9:20
+
+== Où en êtes-vous dans le projet ?
+Début du projet : en train de construire le cahier des charges 
+L'alternance a côté a compliqué les choses.
+On a listé les fonctionnalités du cachier des charges (fonctionnalités, user stories)
+La maquette, nous y réfléchissons.
+Je suis sur customer journey
+On va s'intéresser à l'authentification.
+J'avais imaginé une authentification standard (email, mot de passe).
+
+== Qu'est-ce peut trouver dans un cachier des charges ? 
+On aura déjà l'explication du projet, problématique 
+les fonctionnalités (la création d'un compte, modification du mdp)
+Les persona, maquette, curstomer journez map, une trame de notre JIRA
+Les lots avec les sprints
+Le projet sera disponible en entier à partir du lot x
+L'infrastructure (fonctionnement, base de données, code, utilisateur)
+La documentation technique
+
+== Quel est l'intérêt d'utiliser un diagramme de cas d'utilisation ?
+Permet de pouvoir montrer l'utilisation de a-z de l'utilisateur au niveau de l'application (Modelio, 91).
+
+== Quelle est la différence entre l'user journey et le customer journey ? 
+...
+
+== Qu'est-ce que vous pouvez le dire concernant le modèle de base de données de Firebase ?
+Il s'agit de NoSQL (Not Only) : tout se fait dans une seule et même table.
+
+== Qu'est-ce que la normalisation et la dénormalisation en matière de base de données ?
+...
+
+
+
+

@@ -1,0 +1,47 @@
+= Entretien avec Simon
+16:25
+
+== Pour la conception du projet ?
+Balsamik ( pour les wireframes )
+Figma (pour faire les maquettes) - conception visuelle 
+On a fait un trello avec les tâches à faire :
+- Segmentation des parties importantes du projet
+- Firebase :
+On s'est mis d'accord sur le structure de notre base de donnée NoSQL
+(formatage)
+- Diagramme de Gantt (estimation de la durée de chaque tâche)
+- Persona (les archetiques des utilisateurs de notre application)
+- Github (droits, pull resquest)
+
+== Quelle est la différence entre un wireframe et une maquette ?
+C'est le squelette de nos applications, aucun élément de style. Quelque chose en noir et blanc. 
+La maquette, cela va être un visuel de ce qu'on attend à termes sur le site. 
+A quoi doit ressembler le site à la fin. 
+
+== Est-ce que vous avez  déjà activé des services sur la plateforme Firebase ?
+Le service d'authentification fonctionne
+Le firestore database est activé également
+
+== Des règles ont-elles été installé sur le service firestore ? 
+Oui lecture écriture si la requête vient d'une source authentifiée.
+
+== Qu'est-ce que peut contenir le cahier des charges ?
+Les principales fonctionnalités du projet (users stories)
+Les exigences techniques 
+Les exigences de sécurité
+Description  du service 
+Les besoins 
+Le budget
+Le diagramme de Gant 
+Les sprints 
+Les équipes : le rôle de chaque personne 
+Les procédures de suivi.
+
+
+== Est-ce que certains éléments de ce projet vous paraissent complexes ?
+Le drag/drop: la priorisation des tâches post drag and drop.
+
+== Qu'est-ce que vous faites dans Flutter ?
+Login, Identification, je m'occupe de la vue des fichiers (+ CRUD)
+
+

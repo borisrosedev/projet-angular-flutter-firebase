@@ -1,0 +1,58 @@
+= Entretien avec Nassim
+12:35
+
+== Qu'est-ce vous pouvez me dire par rapport à votre activité au sein du l'équipe projet ?
+J'ai contribué aux user stories avec alpha 
+Le diagramme du cas d'utilisation
+J'ai commencé le code (Angular)
+Je vais m'occuper en partie de la partie CI/CD
+
+== Quels les moyens sur Angular de partager des données entre les composants?
+Il y a deux solutions:
+- La première solution : 
+-- avec un composant enfant  ( balise dans le html) 
+-- avec un composant parent  output/input
+
+== Comment on les appelle @input()/@output() ?
+--- annotations (à revoir)
+
+== Que pouvez-vous des services avec Angular ?
+... (à revoir)
+
+=== Quel est la commande pour créer un component ? 
+... (à revoir)
+
+=== Qu'est-ce que vous mettez dans un cachier des charges ? 
+... (à revoir)
+On peut y mettre les différences tâches à effectuer 
+Les prioriétés
+Les besoins du client 
+Les deadlines
+Le prix de la prestation
+
+== A quoi vous sert le persona ? 
+C'est un client type qui pourrait utiliser l'application.
+
+== Est-ce que vous savez concernant l'accessibilité web ?
+Les personnes qui ne peuvent utiliser que le clavier 
+Les personnes qui n'ont qu'une main.
+La navigabilité (via clavier)
+Vérifier les couleurs (constraste)
+WCAG, ARI, html sémantique
+
+== A quoi  sert github ? 
+A faire du suivi de projet
+Se tenir à jour
+CI/CD : la syntaxe du code, la sécurité
+
+== A quoi sert git ?
+- versionning
+
+
+
+
+
+
+
+
+

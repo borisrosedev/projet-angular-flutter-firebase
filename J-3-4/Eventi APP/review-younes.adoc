@@ -1,0 +1,54 @@
+= Entretien de Younes
+8:20
+
+== En êtes-vous dans votre projet ?
+
+On a commencé la préparation de trello.
+On a commencé le développement le lundi après-midi
+On a distribué les tâches
+On a pu avancer chacun sur nos tâches 
+Je suis sur tout ce qui concerne Firebase ( Bdd pour Flutter et Angular )
+avec Anass et Romain
+Michel et Yohan ont pu avancer sur Flutter
+Sur Angular, j'ai pu avancer avec Romain sur le service CRUD
+
+== Quels sont les outils ? 
+Trello, joue un rôle central dans la gestion du projet
+Google Doc simplement finalement pour préparer l'architecture de la base de données 
+Github: On a préparé et invité les membres (branches)
+Réflexion personnelle : LucidChart
+
+== Qu'est-ce que LucidChart ?
+Outil de visualisation des bases de données et identifier les besoins en termes d'indexation et de requêtes.
+
+== Quel est l'intérêt d'un diagramme de case d'utilisation 
+C'est un ensemble d'actions qui permettent de d'écrire une démarche dans le projet.
+PlantUML.
+(à revoir)
+
+== Quel est l'intérêt d'un diagramme de séquence ?
+Représentation d'une séquence de messages entre différents objets. 
+(à revoir)
+
+== Qu'est-ce que vous pouvez me dire concernant le modèle de base de données ?
+Une base de données NoSQL. (Not Only SQL).
+On appelle les tables : collections ()
+On peut choisir de générer l'id automatiquement
+
+== Avec cette base de données sommes-nous dans le cadre d'une dénormalisation ou d'une normalisation ? 
+Dénormalisation : mettre tout dans une table.
+
+=== Que pouvez-vous me dire par rapport à la plateforme Github actions ?
+CI/CD
+
+
+
+
+
+
+
+
+
+
+
+

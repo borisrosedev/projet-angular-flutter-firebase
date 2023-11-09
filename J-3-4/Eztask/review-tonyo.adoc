@@ -1,0 +1,48 @@
+= Entretien avec Tonyo
+8:50
+
+== Où en êtes-vous dans le projet ? 
+Dans le projet, on a très bien avancé, tout une partie Flutter qui est presque terminé
+Au niveau de la partie Angular, on avance encore.
+Aujourd'hui on pense finir la partie Angular.
+L'équipe Flutter qui aura sans doute fini avant nous commencer à faire la partie présentation. 
+
+== Quels sont outils que vous avez utilisés jusqu'à présent ?
+On a surtout utilisé Figma pour les maquettes, les personas et l'organisation des différentes tâches nous avons utilisé Trello pour lister les user stories et la répartition des tâches. Ensuite, au niveau des gestionnaires de code nous avons github. On a un diagramme de Gantt néanmoins je ne l'ai pas fait personnellement et je n'ai pas encore eu le temps de me rapprocher de la personne qui l'a fait. 
+Idée : Firebase est un outil, j'ai autorisé les accès de mes collègues. 
+Discord : Moyen de communication interne. 
+
+== Qu'est-ce que vous pouvez me dire concernant la plateforme Firebase ? 
+C'est créé par Google, une plateforme qui recense pas mal d'outils pour les développeurs. C'est une plateforme gratuite selon les utilisations. Si on peut faire des stockages (5go grantuits). Un système d'authentification, ce que je trouve bien c'est les authentifications assignées (email, mot de passe), google (facilement implémentable). J'ai eu des complications avec authentification via Facebook. On a le firestore (noSQL), le storage, hosting pour héberger des sites web, une partie analytique (qui permettrait de voir les flux engendrés)
+
+
+== Qu'est-ce que peut contenir le cahier des charges ?
+Les demandes du client 
+Il doit fournir les solutions que l'on proposera (les solutions qui seront mises en place lors du développement)
+Les use case 
+Les user stories 
+La partie maquette : qui reflètera le résultat attendu 
+
+
+== Qu'est-ce que vous pouvez me dire concernant Angular ?
+C'est une framework assez complet, tout est vraiment structuré (3 fichiers)
+TypeScript.C'est un langage assez simple à maîtriser. Ils sont passés par des services, shards (composants partagés). J'ai pu mettre en place firebase (j'ai créé le projet Firebase, implémanté Firebase dans Flutter et Angular). En attendant ils avait utilisé côté Angular (jsonserver).
+On reste en communication côté Flutter.
+
+== Les accès Firebase pour vos collègues sont sous quel rôle ?
+Propriétaire
+
+== Les règles de Firestore ont-elles été modifiées ? 
+read and write si la req.auth ≠ null 
+
+== Qu'est-ce que vous pouvez me dire concernant cette modèle de base de données ?
+Non relationel,
+Collections (Folders, Users)
+On a mis nos tâches dans des dossiers
+
+
+
+
+
+
+

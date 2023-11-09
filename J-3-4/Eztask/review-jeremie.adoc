@@ -1,0 +1,70 @@
+= Entretien de Jérémie 
+10:10
+
+== Que faites-vous personnellement dans l'équipe projet ?
+Sur notre diagramme je suis noté comme product owner développeur flutter et designer 
+Je suis en train de connecter la partie tâche (Flutter) (folders, tasks) à notre base de données Firebase.
+J'ai fait les wireframes pour la partie flutter.
+J'ai géré toute la partie tâches pour Flutter.
+
+== Quels sont les widgets Flutter que vous connaissez ? 
+MaterialApp 
+StatelessWidget
+StatefulWidget
+Scaffold
+Container 
+Row
+ListView
+FloatingActionButon
+TagButton
+Text
+Checkbox
+InputDecoration
+
+== Quel est le fichier que vous avez dû modifier pour pouvoir utiliser Firebase dans votre application ?
+pubspec.yaml
+
+== Quel est le fichier que vous utilisez pour configurer l'application ? 
+analysis_options.yaml
+
+
+== Qu'est-ce qu'on peut mettre dans un cahier des charges ?
+Demande du client
+Les technologies utilisées
+Les délais
+Budget
+Gestion du risque
+Les spécificités fonctionnelles 
+Les spécificités techniques 
+
+== Qu'est-ce qu'une user story ?
+c'est la description simple d'un besoin pour l'utilisateur par domaine de l'application 
+
+== Quel serait les objets domaines de votre application?
+...
+
+=== Que pouvez-vous me dire par rapport à la plateforme Github actions ?
+Cela permet de réaliser des actions de vérification au moment de push de pull_request.
+Pour assurer une sécurité au moment de regrouper du code.
+
+== Qu'est-ce que vous pouvez me dire concernant le modèle de base de données ?
+C'est du NoSQL : Not Only SQL
+Ce n'est pas des requêtes comme en SQL (Structured Query Language).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
